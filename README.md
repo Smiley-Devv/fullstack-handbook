@@ -1,20 +1,30 @@
+# 🧠 Tech Stack Documentation Hub
 
-## 🧰 Built With
+A beautifully structured, educational documentation site that provides comprehensive overviews, practical code examples, and usage guides for popular programming technologies.
 
-- React (via Next.js)
-- Tailwind CSS
-- ShadCN UI
+## 🚀 Live Demo
+
+> Deployed via [Vercel](https://vercel.com) — URL will appear here after deployment.
+
+## 🛠️ Technologies Covered
+
+- Node.js
+- React
 - TypeScript
+- Java
+- Rust
+- C++
+- C#
 
 ## 📦 Getting Started
 
 ```bash
-# Clone the repo
-git clone https://github.com/smiley-devv/fullstack-handbook.git
-cd fullstack-handbook
-
-# Install dependencies
+git clone https://github.com/yourusername/tech-docs-site.git
+cd tech-docs-site
 npm install
-
-# Start dev server
 npm run dev
+```
+
+## 📄 License
+
+MIT License © Your Name
