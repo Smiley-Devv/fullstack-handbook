@@ -1,2 +1,20 @@
-# fullstack-handbook
-An interactive documentation hub covering essential tech stacks — including Node.js, React, TypeScript, Java, Rust, C++, and C#. Features practical code examples, clear overviews, and key features to help developers learn and apply each technology effectively.
+
+## 🧰 Built With
+
+- React (via Next.js)
+- Tailwind CSS
+- ShadCN UI
+- TypeScript
+
+## 📦 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/smiley-devv/fullstack-handbook.git
+cd fullstack-handbook
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
